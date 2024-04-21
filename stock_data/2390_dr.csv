@@ -1,0 +1,2 @@
+date,stock_id,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2022-07-11,2390,15.95,14.95,1.0,息,16.4,13.5,14.95,14.95

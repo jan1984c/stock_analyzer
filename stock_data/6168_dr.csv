@@ -1,0 +1,5 @@
+date,stock_id,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2019-08-28,6168,14.25,13.25,1.0,息,14.55,11.95,13.25,13.25
+2021-08-27,6168,27.75,27.05,0.7,息,29.75,24.35,27.05,27.05
+2022-08-26,6168,21.2,19.7,1.5,息,21.65,17.75,19.7,19.7
+2023-08-29,6168,26.0,24.49,1.5,息,26.9,22.05,24.5,24.49

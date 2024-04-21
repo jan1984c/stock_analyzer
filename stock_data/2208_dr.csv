@@ -1,0 +1,3 @@
+date,stock_id,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2021-02-26,2208,26.5,22.11,4.39,權,29.15,19.9,26.5,26.5
+2023-12-15,2208,21.8,20.96,0.84,權,23.95,18.9,21.8,21.8
