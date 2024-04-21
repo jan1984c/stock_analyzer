@@ -1,5 +1,0 @@
-date,stock_id,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2021-11-23,5258,34.6,34.0,0.6,息,37.4,30.6,34.0,34.0
-2022-07-06,5258,57.6,56.32,1.28,權,63.3,50.7,57.6,57.6
-2022-10-21,5258,57.4,56.86,0.54,息,62.5,51.2,56.9,56.86
-2023-10-18,5258,124.0,117.33,6.67,權息,129.0,106.0,117.5,117.33
